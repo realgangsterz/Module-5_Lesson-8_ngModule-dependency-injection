@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngmodule-dependency-injection"
+    }
+  },
+  "defaultProject": "ngmodule-dependency-injection",
+  "cli": {
+    "analytics": false
+  }
 }
